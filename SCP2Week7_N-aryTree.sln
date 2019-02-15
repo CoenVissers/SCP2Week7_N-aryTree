@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "N-Ary_Tree", "SCP2Week7_N-aryTree\N-Ary_Tree.csproj", "{51EE4CD5-C912-4BFD-AE9E-FE19811591DC}"
+	ProjectSection(ProjectDependencies) = postProject
+		{2627AF8B-4C2B-4EDA-BBAB-205465C87B6C} = {2627AF8B-4C2B-4EDA-BBAB-205465C87B6C}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tree_Library", "Tree_Library\Tree_Library.csproj", "{2627AF8B-4C2B-4EDA-BBAB-205465C87B6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51EE4CD5-C912-4BFD-AE9E-FE19811591DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51EE4CD5-C912-4BFD-AE9E-FE19811591DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51EE4CD5-C912-4BFD-AE9E-FE19811591DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51EE4CD5-C912-4BFD-AE9E-FE19811591DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2627AF8B-4C2B-4EDA-BBAB-205465C87B6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2627AF8B-4C2B-4EDA-BBAB-205465C87B6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2627AF8B-4C2B-4EDA-BBAB-205465C87B6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2627AF8B-4C2B-4EDA-BBAB-205465C87B6C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6618E611-00B7-4E7A-859A-81D7AC61D17F}
+	EndGlobalSection
+EndGlobal
